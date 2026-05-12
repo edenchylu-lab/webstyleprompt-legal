@@ -71,7 +71,7 @@ WebStylePrompt 是一款 Chrome 浏览器扩展程序，帮助开发者快速解
 ### 九、联系方式
 
 如有疑问，请通过 Chrome Web Store 商品页留言或邮件联系：
-**[请把这里替换成你的真实邮箱]**
+**[edenchylu@gmail.com]**
 
 ---
 
